@@ -1,0 +1,13 @@
+name = "ReachAnalysis"
+uuid = "ab41c722-d3e7-4d40-9603-222043898447"
+authors = ["Tehran Davis"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
